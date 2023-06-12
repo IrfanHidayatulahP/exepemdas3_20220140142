@@ -52,7 +52,7 @@ int main() {
     int a;
     Lingkaran.input();
     Lingkaran.setX(6);
-    cout << Lingkaran.Luas(3.14 * 6 * 6) << endl;
+    cout << "Luas Lingkaran: " << Lingkaran.Luas(3.14 * 6 * 6) << endl;
     cout << Lingkaran.Keliling(3.14 * 12) << endl;
     Lingkaran.getX();
 
